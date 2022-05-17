@@ -1,0 +1,14 @@
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
