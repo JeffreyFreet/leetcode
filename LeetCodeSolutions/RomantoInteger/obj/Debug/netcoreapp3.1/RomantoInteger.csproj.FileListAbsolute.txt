@@ -1,0 +1,14 @@
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.exe
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.deps.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.runtimeconfig.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.runtimeconfig.dev.json
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.dll
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\bin\Debug\netcoreapp3.1\RomantoInteger.pdb
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.csproj.AssemblyReference.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.AssemblyInfoInputs.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.AssemblyInfo.cs
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.csproj.CoreCompileInputs.cache
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.dll
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.pdb
+C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\RomantoInteger\obj\Debug\netcoreapp3.1\RomantoInteger.genruntimeconfig.cache
