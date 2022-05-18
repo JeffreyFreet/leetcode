@@ -20,7 +20,7 @@ namespace RomantoInteger
 				switch (s[i])
 				{
 					case 'I':
-						if (s[i + 1] == 'V')
+						if (s[i + 1] == 'V)
 						{
 							number += 4;
 							i++;
