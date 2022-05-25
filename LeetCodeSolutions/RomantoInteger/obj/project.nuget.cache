@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l5nSDypvPXSNgULVsN90xsDnlt8ULVn+QquD1IeWZVD9rJ0Vh28XTAEh6JhJGDgw69xs8yMmPj4xGmfaWlc8Iw==",
+  "dgSpecHash": "cFSVY4doC5i9tCpdCIVaFxbqB9tr1Adubnwqeb4LpeoLdHauA4DLsU/s14SwQF1+kJQf8YcdnyzYIH2kV6a3PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\RomantoInteger\\RomantoInteger.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\RomantoInteger\\RomantoInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

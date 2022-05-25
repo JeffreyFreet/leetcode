@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zl0z+Zfb/Q2wuLrrXKjDRaYHEJm/M/YMMfgYw3pEtx51ajYo7MVSzcZz8fwk5n0cdYuyLdTrjkd24d6K4ZKzZg==",
+  "dgSpecHash": "4jtP6xy8g/ZLl6CQ4vMp0MEKlNxgGY4EN6FdzeKRvCJkMcFdC1vf0LsZPoOEs+M0gLd4tredu9Uw6riV15egFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\PalindromeNumber\\PalindromeNumber.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\PalindromeNumber\\PalindromeNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

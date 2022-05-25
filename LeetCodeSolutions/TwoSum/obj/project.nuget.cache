@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rjUlVl7B6qvwHaAI4/vz4CnDYblGEjtmUwFAVkTiBtxD4jc05XoCDpGVLDyFU73Cyu4T+JSzAQqx0/vDQluucg==",
+  "dgSpecHash": "5n+rL/oaVJqTyhDyHufhvLlRBVl0yJNrXi0iZOfJC7cIh8MapCYRONgx44YtBhaRXHOMpdiHKY46oe9D+0WRlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

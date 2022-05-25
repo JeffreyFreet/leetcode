@@ -12,3 +12,17 @@ C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\TwoSum\obj\Debug
 C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
 C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
 C:\Users\jeff.freet\Documents\GitHub\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csprojAssemblyReference.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache

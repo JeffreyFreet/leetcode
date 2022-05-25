@@ -8,26 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jeff.freet\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\jeffr\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
+      "projectUniqueName": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
       "projectName": "TwoSum",
-      "projectPath": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
-      "packagesPath": "C:\\Users\\jeff.freet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeff.freet\\Documents\\GitHub\\leetcode\\LeetCodeSolutions\\TwoSum\\obj\\",
+      "projectPath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\TwoSum\\TwoSum.csproj",
+      "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
+      "outputPath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\TwoSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jeff.freet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -36,7 +35,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\ruoff.local\\global\\ruoff\\departments\\it\\development\\nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,12 +62,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.18, 3.1.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

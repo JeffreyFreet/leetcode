@@ -23,7 +23,7 @@ namespace TwoSum
 
 				if (values.ContainsKey(pair))
 				{
-					WriteAnswer(new int[] { values[pair], i });
+					WriteAnswer(new int[] {values[target - nums[i]], i});
 					return;
 				}
 				else
