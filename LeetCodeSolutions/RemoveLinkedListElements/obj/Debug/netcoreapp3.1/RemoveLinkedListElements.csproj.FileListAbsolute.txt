@@ -1,0 +1,14 @@
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.exe
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.deps.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.runtimeconfig.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.runtimeconfig.dev.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\bin\Debug\netcoreapp3.1\RemoveLinkedListElements.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.csprojAssemblyReference.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.AssemblyInfoInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.AssemblyInfo.cs
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.csproj.CoreCompileInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\RemoveLinkedListElements\obj\Debug\netcoreapp3.1\RemoveLinkedListElements.genruntimeconfig.cache

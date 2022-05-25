@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22p0u8MltpNyv4BJAFqlHxqlf3tESdTpywFxO2U17PgimhGUBjMSzZZZ9Q+SC0o0TUj9avPpfbm7itpWfhieaQ==",
+  "success": true,
+  "projectFilePath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\RemoveLinkedListElements\\RemoveLinkedListElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
