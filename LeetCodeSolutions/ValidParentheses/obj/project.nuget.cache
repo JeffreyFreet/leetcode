@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCiJwXgY58PQmaVfG7Buz4Fh/5rqXaWpAVXdu1MnZTqlbkwjxygE+ZN372pK7g4BdCzNxU3grM9yFO438jpBhQ==",
+  "success": true,
+  "projectFilePath": "E:\\C# Projects\\LeetCode\\leetcode\\LeetCodeSolutions\\ValidParentheses\\ValidParentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

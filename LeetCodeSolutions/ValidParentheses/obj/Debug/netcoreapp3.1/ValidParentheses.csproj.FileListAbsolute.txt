@@ -1,0 +1,13 @@
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfoInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfo.cs
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.CoreCompileInputs.cache
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.exe
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.deps.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.dev.json
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
+E:\C# Projects\LeetCode\leetcode\LeetCodeSolutions\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache
